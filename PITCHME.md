@@ -27,11 +27,13 @@
 - @size[30px](**Basic form validation**)
 
     @size[25px](First of all, the form must be checked to make sure all the mandatory fields are filled in. It would require just a loop through each field in the form and check for data.)
+    
     @size[25px]([Click here to see an example](https://jsbin.com/kibafow/1/edit?html,js,output))
 
 - @size[30px](**Data Format Validation** )
 
     @size[25px](Secondly, the data that is entered must be checked for correct format and value. Your code must include appropriate logic to test correctness of data.)
+    
     @size[25px]([Click here to see an example](https://jsbin.com/palidal/edit?html,js,console,output))
     
 ---
@@ -51,13 +53,9 @@
 - @size[25px](A regular expression is a sequence of characters that forms a search pattern.)
 - @size[25px](A regular expression can be a single character, or a more complicated pattern.)
 
-##### Syntax
+@size[30px](**Syntax**)
 
-@size[25px](```js
-
-/pattern/modifiers;
-
-```)
+@size[25px](`/pattern/modifiers;`)
 
 ---
 
