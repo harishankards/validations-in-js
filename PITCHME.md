@@ -12,7 +12,7 @@
 
 #### What is validation in Javascript?
 
-@size[25px](The action of validating data - both in the client and server.)
+@size[25px](**The action of validating data - both in the client and server.**)
 
 - @size[25px](Form validation normally used to occur at the server, after the client had entered    all the necessary data and then pressed the Submit button.)
 
@@ -32,16 +32,40 @@
 - @size[30px](**Data Format Validation** )
 
     @size[25px](Secondly, the data that is entered must be checked for correct format and value. Your code must include appropriate logic to test correctness of data.)
-    @size[30px]([Click here to see an example](https://jsbin.com/palidal/edit?html,js,console,output))
+    @size[25px]([Click here to see an example](https://jsbin.com/palidal/edit?html,js,console,output))
     
 ---
 
 
-#### MISC
+## RegEx in Javascript
+
+@size[30px](aka)
+
+## Regular Expressions in Javscript
 
 
+---
+
+#### What is RegEx?
+
+- @size[25px](A regular expression is a sequence of characters that forms a search pattern.)
+- @size[25px](A regular expression can be a single character, or a more complicated pattern.)
+
+##### Syntax
+
+@size[25px](```js
+
+/pattern/modifiers;
+
+```)
+
+---
+
+#### Examples
 
 https://www.w3schools.com/js/js_regexp.asp
+
+#### Reference
 
 https://www.w3schools.com/jsref/jsref_obj_regexp.asp
 
