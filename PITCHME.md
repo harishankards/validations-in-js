@@ -26,20 +26,20 @@
 
 - @size[30px](**Basic form validation**)
 
-    @size[25px](First of all, the form must be checked to make sure all the mandatory fields are filled in. It would require just a loop through each field in the form and check for data.
-    [Click here to see an example](https://jsbin.com/kibafow/1/edit?html,js,output) )
+    @size[25px](First of all, the form must be checked to make sure all the mandatory fields are filled in. It would require just a loop through each field in the form and check for data.)
+    @size[25px]([Click here to see an example](https://jsbin.com/kibafow/1/edit?html,js,output))
 
 - @size[30px](**Data Format Validation** )
 
-    @size[25px](Secondly, the data that is entered must be checked for correct format and value. Your code must include appropriate logic to test correctness of data.
-    [Click here to see an example](https://jsbin.com/palidal/edit?html,js,console,output))
-
- ---
-
-
+    @size[25px](Secondly, the data that is entered must be checked for correct format and value. Your code must include appropriate logic to test correctness of data.)
+    @size[30px]([Click here to see an example](https://jsbin.com/palidal/edit?html,js,console,output))
+    
+---
 
 
-• JavaScript can be used to validate data in HTML forms before sending off the content to a server.Form data that typically are checked by a JavaScript could be:• has the user left required fields empty?• has the user entered a valid e-mail address?• has the user entered a valid date?• has the user entered text in a numeric field?
+#### MISC
+
+
 
 https://www.w3schools.com/js/js_regexp.asp
 
